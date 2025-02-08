@@ -9,7 +9,6 @@ const febHolidays = [
     "You're my everything ✔",
     "You are my soulmate ✨💕",
     "And of course... wait baby.....",
-    "My future wife🤭",
     "I will always be there for you",
     "No matter how far we are🥰",
     "I promise I will never multi-thread on you",
